@@ -1,0 +1,22 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "关于js算法的一些总结",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoFirstStep/algorithm.git"
+  },
+  "keywords": [
+    "算法"
+  ],
+  "author": "magicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoFirstStep/algorithm/issues"
+  },
+  "homepage": "https://github.com/zhaoFirstStep/algorithm#readme"
+}
