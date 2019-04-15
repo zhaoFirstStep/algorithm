@@ -9,7 +9,6 @@
 
 Check out the source code from the project hosting platform github:
 
-[github warehouse address] (https://github.com/zhaoFirstStep/algorithm)
 
 ### 2, Installation
 
